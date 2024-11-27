@@ -1,1 +1,1 @@
-# Machine-Learning-Model-for-Pattern-Recognition-in-Modern-Science
+# Quantum-Machine-Learning-for-Pattern-Recognition-in-Modern-Science
